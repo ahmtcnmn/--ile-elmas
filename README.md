@@ -1,8 +1,4 @@
 # Yildiz ile elmas yapimi
-## for dongusu ile ;
-    *
-   ***
-    *
+## for dongusu ile elmas cizimi
     
-## yapimi
 [Patika](https://www.patika.dev/tr) --Odevidir
