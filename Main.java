@@ -4,6 +4,17 @@ import static java.lang.System.*;
 
 public class Main {
     public static void main(String[] args) {
+        /* 
+              *
+             ***
+            *****
+           *******
+          *********
+           *******
+            *****
+             ***
+              *
+        */
         Scanner input = new Scanner(in);
         System.out.print("Bir Sayı Giriniz :");
         int n = input.nextInt();
